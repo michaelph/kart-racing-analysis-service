@@ -1,5 +1,5 @@
-# kart-racing-analysis-service
-kart racing analysis service
+# kart racing analysis service
+App for Gympass interview
 
 ## Build
 
